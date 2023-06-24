@@ -8,7 +8,7 @@ It integrates Frontend and Backend in a RESTFull API application with the latest
 
 ## Technologies:
 
-React and respective libraies such as: 
+React and respective APIs/libraries such as: 
 - PrimeReact: https://primereact.org/installation/
 - React-query: https://tanstack.com/query/v3/
 
