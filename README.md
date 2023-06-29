@@ -49,12 +49,12 @@ NodeJs and respective frameworks/utilities such as:
 
    ```bash
    cd server
-   npm run start
+   npm start
    ```
 
 5. Start the client
 
    ```bash
    cd ~/client/
-   npm run start
+   npm start
    ```
