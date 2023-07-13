@@ -34,6 +34,7 @@ NodeJs and respective frameworks/utilities such as:
    ```bash
    cd ronaldo-correa-ecc-dssb-IS21-code-challenge-req101408
    cd client
+   cd manage-webapp
    npm install
    ```
 
@@ -49,12 +50,15 @@ NodeJs and respective frameworks/utilities such as:
 
    ```bash
    cd server
-   npm run start
+   
+   npm start
    ```
 
 5. Start the client
 
    ```bash
-   cd ~/client/
-   npm run start
+   cd ..
+   cd client/
+   cd manage-webapp
+   npm start
    ```
