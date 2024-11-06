@@ -1,6 +1,6 @@
 # ronaldo-correa-ecc-dssb-IS21-code-challenge-req101408
 
-Web Application to track and manage other Web Apps developed by Province of BC.
+Web Application to track and manage other Web Apps developed for Province of BC.
 
 ## Introduction
 
